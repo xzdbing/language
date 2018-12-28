@@ -5,6 +5,8 @@
 ## 初级
 
 * [学习规划](elementary/README.md)
+* [Daily Easy English Expression](elementary/daily-easy-english-expression/README.md)
+    * [1-10](elementary/daily-easy-english-expression/1.md)
 
 ## 初中级
 
