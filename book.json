@@ -4,7 +4,6 @@
     "author": "xzdbing",
     "plugins": [
         "anchor-navigation-ex-toc",
-        "code",
         "expandable-chapters-small",
         "github",
         "sectionx",
@@ -13,9 +12,6 @@
     "pluginsConfig": {
         "anchor-navigation-ex-toc": {
             "showLevel": false
-        },
-        "code": {
-            "copyButtons": true
         },
         "github": {
             "url": "https://github.com/xzdbing"

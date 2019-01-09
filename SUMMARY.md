@@ -10,6 +10,8 @@
     * [11-20](elementary/daily-easy-english-expression/11.md)
     * [21-30](elementary/daily-easy-english-expression/21.md)
     * [31-40](elementary/daily-easy-english-expression/31.md)
+    * [41-50](elementary/daily-easy-english-expression/41.md)
+    * [51-60](elementary/daily-easy-english-expression/51.md)
 
 ## 初中级
 
